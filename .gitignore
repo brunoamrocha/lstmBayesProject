@@ -1,0 +1,16 @@
+ds/set-a/
+ds/set-b/
+ds/set-c/
+ds/outcomes
+
+*.pth
+*.pt
+*.pkl
+*.h5
+
+__pycache__/
+.ipynb_checkpoints/
+.env    
+v采集/
+.venv/
+env/
